@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCUI_GMOverview_0001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c891279c-a31c-48ef-b482-c6832907307a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a615f0c-8f68-420f-a139-162ecd7ecdec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>1a615f0c-8f68-420f-a139-162ecd7ecdec</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

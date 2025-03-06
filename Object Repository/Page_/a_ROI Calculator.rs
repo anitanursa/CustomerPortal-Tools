@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ROI Calculator</name>
+   <tag></tag>
+   <elementGuidId>a053fab8-b3c2-4b99-bf55-fba2d7ab1175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>50d869b0-4fbd-4d59-a354-cb34c61a876a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/roi-calculator</value>
+      <webElementGuid>54774fa3-611d-44f0-b5fd-2b149fb80d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6</value>
+      <webElementGuid>93f64cb7-d8af-4caf-b2ee-9a1f70cadfdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ROI Calculator</value>
+      <webElementGuid>3ef2d5f9-7402-4055-babf-2f6f3421a97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/div[1]/div[@class=&quot;lg:inset-b-0 top-16 hidden h-screen lg:fixed lg:z-40 lg:flex lg:w-56 lg:flex-col&quot;]/div[@class=&quot;flex grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 bg-white px-6 pt-6&quot;]/nav[@class=&quot;flex flex-1 flex-col&quot;]/ul[@class=&quot;flex flex-1 flex-col gap-y-7&quot;]/li[1]/ul[@class=&quot;-mx-2 space-y-1&quot;]/li[3]/a[@class=&quot;text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6&quot;]</value>
+      <webElementGuid>57c9989e-7cc2-48af-84e9-e4df4890d4d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[3]/a</value>
+      <webElementGuid>a869afe6-295b-4fcf-a5fb-0092d463abb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ROI Calculator')]</value>
+      <webElementGuid>cbcded8e-899b-4f89-b702-1aafcb26df3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assesment Center'])[1]/following::a[1]</value>
+      <webElementGuid>beef496c-cb18-44d8-be84-56c0f6e75e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment'])[1]/following::a[2]</value>
+      <webElementGuid>5e1608a9-ada5-490b-84b7-4ee986546e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Estimate'])[1]/preceding::a[1]</value>
+      <webElementGuid>ea8d3236-885d-4917-a000-f8ac87939bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open sidebar'])[1]/preceding::a[2]</value>
+      <webElementGuid>a1700681-6f8f-40b2-a6b0-794f983c6ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ROI Calculator']/parent::*</value>
+      <webElementGuid>1eddc337-f815-4094-a483-45c820772566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/roi-calculator')]</value>
+      <webElementGuid>e08d9c66-8446-4a72-a0b9-cee10655be09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>9b5b3117-2422-425b-86a7-3e35c71f2cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/roi-calculator' and (text() = ' ROI Calculator' or . = ' ROI Calculator')]</value>
+      <webElementGuid>f786d5db-d85e-4e27-bf54-cef2ae74cd16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

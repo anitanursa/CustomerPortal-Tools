@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set Appointment With Us For Better Disc_854a7e</name>
+   <tag></tag>
+   <elementGuidId>2162336c-3bc9-4d6e-9aa1-5ae469fec4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b3a2428-2ad8-4b5c-94c7-aa5558f1dc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-start gap-4</value>
+      <webElementGuid>38936e2a-23c0-4be1-9e53-e3f5277f3c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set Appointment With Us For Better DiscussionTake the first step towards enhancing your business strategies by scheduling an appointment with our expert team. We understand that every business is unique, and personalized discussions can lead to tailored solutions that meet your specific needs. Whether you have questions, need guidance, or want to explore new opportunities, our dedicated professionals are here to listen and collaborate with you. Let’s work together to unlock your business's full potential!Personalized ConsultationsFlexible SchedulingExpert InsightsFollow-Up Support</value>
+      <webElementGuid>aa5feb15-8a04-4a17-ac74-febaefe213ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;m-7 max-w-full&quot;]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-2&quot;]/div[@class=&quot;flex min-w-[480px] cursor-pointer flex-col items-start gap-6 rounded-xl p-6 text-white&quot;]/div[@class=&quot;flex flex-col items-start gap-4&quot;]</value>
+      <webElementGuid>09933933-d219-41f2-a722-39f17f28e5a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div[4]/div</value>
+      <webElementGuid>a7a21bf4-ea87-4293-aaf9-a7320813f444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Now'])[3]/following::div[2]</value>
+      <webElementGuid>9c5a0f97-c1b0-4f12-81ac-48b85f1f5819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Educational Resources'])[1]/following::div[2]</value>
+      <webElementGuid>c9abc136-af13-45b9-bfbd-48dc8b204d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>a57a5f58-ec8f-4343-8688-eb7ade6209f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Set Appointment With Us For Better DiscussionTake the first step towards enhancing your business strategies by scheduling an appointment with our expert team. We understand that every business is unique, and personalized discussions can lead to tailored solutions that meet your specific needs. Whether you have questions, need guidance, or want to explore new opportunities, our dedicated professionals are here to listen and collaborate with you. Let’s work together to unlock your business&quot; , &quot;'&quot; , &quot;s full potential!Personalized ConsultationsFlexible SchedulingExpert InsightsFollow-Up Support&quot;) or . = concat(&quot;Set Appointment With Us For Better DiscussionTake the first step towards enhancing your business strategies by scheduling an appointment with our expert team. We understand that every business is unique, and personalized discussions can lead to tailored solutions that meet your specific needs. Whether you have questions, need guidance, or want to explore new opportunities, our dedicated professionals are here to listen and collaborate with you. Let’s work together to unlock your business&quot; , &quot;'&quot; , &quot;s full potential!Personalized ConsultationsFlexible SchedulingExpert InsightsFollow-Up Support&quot;))]</value>
+      <webElementGuid>60687f0f-673a-4163-a5ba-49b856d31082</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Select a category_aspect-square w-full _e0a165</name>
+   <tag></tag>
+   <elementGuidId>fb0b1e3a-a775-4d54-87bc-c988a7eb8691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.aspect-square.w-full.object-cover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='undefined_steppanel_1']/div/div/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4e673009-092a-493a-aaa6-c28ae4bb9d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/api/v1/odoo/image?model=product.template&amp;id=26</value>
+      <webElementGuid>794ec87b-3262-46be-91fd-4b46051bb133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Description of the image</value>
+      <webElementGuid>ad7e30b8-d701-4c64-8d13-34f70e3573b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aspect-square w-full object-cover</value>
+      <webElementGuid>5e7029f5-be12-47a0-bc5e-4dda75fd77ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;undefined_steppanel_1&quot;)/div[@class=&quot;grid grid-cols-3 gap-4&quot;]/div[@class=&quot;col-span-2 rounded-lg border bg-white p-4&quot;]/div[@class=&quot;my-4 grid grid-cols-3 gap-2&quot;]/div[@class=&quot;cursor-pointer rounded-md border p-2 hover:bg-slate-100&quot;]/div[@class=&quot;w-full overflow-hidden&quot;]/img[@class=&quot;aspect-square w-full object-cover&quot;]</value>
+      <webElementGuid>fce461ce-98dd-45eb-910e-d397cc07f995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='undefined_steppanel_1']/div/div/div[2]/div/div/img</value>
+      <webElementGuid>28fe068c-30a7-4897-877a-be832b7f1e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Description of the image']</value>
+      <webElementGuid>a4694d56-9ebc-43e9-937d-6413e337a5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+      <webElementGuid>1f81c356-b4e0-44e5-ae69-4c0f19c6614d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/api/v1/odoo/image?model=product.template&amp;id=26' and @alt = 'Description of the image']</value>
+      <webElementGuid>8c634c9b-a467-43c9-a230-558e4655f1d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

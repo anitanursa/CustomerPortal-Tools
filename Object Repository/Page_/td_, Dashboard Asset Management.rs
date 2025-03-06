@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_, Dashboard Asset Management</name>
+   <tag></tag>
+   <elementGuidId>bbb17545-3839-4fa2-8538-66393e8da22c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div[2]/div/div/div/table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4123db31-d636-4ec9-928f-51fc87691934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative whitespace-nowrap py-4 pl-3 pr-4 text-center text-sm font-medium sm:pr-6</value>
+      <webElementGuid>1b2136bf-5b4a-4f32-991e-dcd2b58a21a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> , Dashboard Asset Management</value>
+      <webElementGuid>8939a6b4-dddc-4b45-8c0b-ec756fe14f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;m-7 max-w-full&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;mt-8 flow-root&quot;]/div[@class=&quot;-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8&quot;]/div[@class=&quot;inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8&quot;]/div[@class=&quot;overflow-hidden shadow ring-1 ring-black ring-opacity-5 sm:rounded-lg&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-300&quot;]/tbody[@class=&quot;divide-y divide-gray-200 bg-white&quot;]/tr[@class=&quot;even:bg-gray-50&quot;]/td[@class=&quot;relative whitespace-nowrap py-4 pl-3 pr-4 text-center text-sm font-medium sm:pr-6&quot;]</value>
+      <webElementGuid>290cf15e-e0dc-4f2b-a3f0-a72c4ca86bae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div[2]/div/div/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>9e194136-49dc-4cb2-82ba-6d3d0485d567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Progress'])[2]/following::td[1]</value>
+      <webElementGuid>f762a799-9ab7-4aba-b16c-d033b3f23fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DUA'])[1]/following::td[2]</value>
+      <webElementGuid>3aa88b39-4005-4da2-8f34-49e6c1c0f085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internal Project #1'])[1]/preceding::td[1]</value>
+      <webElementGuid>e34d27b3-7176-4e48-bae0-4fd2e2d63727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>c7fa8860-434e-4492-a81a-ee8ceeb164f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' , Dashboard Asset Management' or . = ' , Dashboard Asset Management')]</value>
+      <webElementGuid>a85a0783-2852-43d1-86a6-505810fd0688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Project Estimate</name>
+   <tag></tag>
+   <elementGuidId>9e42ed81-71bf-4db7-be15-a113947cd02e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a2a1979-fbeb-4b99-96c2-e53609a5b337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/project-estimate</value>
+      <webElementGuid>b4a625f6-8e85-4d10-93e3-58319ef401d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6</value>
+      <webElementGuid>820269fc-fd11-4aa4-9fcd-88e41c643a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Project Estimate</value>
+      <webElementGuid>5a49c0fc-5ddb-456e-9061-d24f932e51cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/div[1]/div[@class=&quot;lg:inset-b-0 top-16 hidden h-screen lg:fixed lg:z-40 lg:flex lg:w-56 lg:flex-col&quot;]/div[@class=&quot;flex grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 bg-white px-6 pt-6&quot;]/nav[@class=&quot;flex flex-1 flex-col&quot;]/ul[@class=&quot;flex flex-1 flex-col gap-y-7&quot;]/li[1]/ul[@class=&quot;-mx-2 space-y-1&quot;]/li[4]/a[@class=&quot;text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6&quot;]</value>
+      <webElementGuid>32699ebf-de5b-4ff0-abbe-c0e3b8e8629a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[4]/a</value>
+      <webElementGuid>005e5d62-cdbf-485f-849c-bb2b1cefe83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Project Estimate')]</value>
+      <webElementGuid>c64182ae-edf8-454c-9835-204d5a5c3fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROI Calculator'])[1]/following::a[1]</value>
+      <webElementGuid>1926e919-5447-4e8b-ae03-77421f2b1fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assesment Center'])[1]/following::a[2]</value>
+      <webElementGuid>84e2e61c-1074-4af9-b846-b86435952059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open sidebar'])[1]/preceding::a[1]</value>
+      <webElementGuid>7eee5b9e-26f3-426a-bb88-fdecde74b054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::a[1]</value>
+      <webElementGuid>254fb9ae-d29c-4cc8-b19a-57c55b8b647d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Project Estimate']/parent::*</value>
+      <webElementGuid>fb5bc57a-1997-4f5b-865c-1a3d443f8f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/project-estimate')]</value>
+      <webElementGuid>38eb4efb-2293-428d-b618-00825f7cec7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>290156d8-5664-4411-8cca-57738505da02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/project-estimate' and (text() = ' Project Estimate' or . = ' Project Estimate')]</value>
+      <webElementGuid>ab9ce60d-2198-4aed-aafb-2d30cef1b43b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

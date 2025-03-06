@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email Address Password Remember me Forg_91f5c7</name>
+   <tag></tag>
+   <elementGuidId>2e825ab1-8561-40c0-ab34-f62e9bbc09c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.items-stretch.justify-start.gap-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>738194df-68dc-4345-85d6-76670bbcd934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-stretch justify-start gap-8</value>
+      <webElementGuid>57805331-8fc5-48b7-9047-0dfb0fce108e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Email Address Password Remember me Forgot password Sign In Continue as Guest  Or continue with  Microsoft  Google </value>
+      <webElementGuid>c07ef868-0b9d-45ea-aa38-93f57c0f68bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[1]/div[1]/div[@class=&quot;flex min-h-screen w-full flex-col bg-white lg:flex-row&quot;]/div[@class=&quot;w-full flex-none p-8 lg:w-[640px] lg:p-28&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-12&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-8&quot;]</value>
+      <webElementGuid>bb9d3507-221f-4612-8a8f-55e12f178f3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>80af85d5-6c14-48c8-b271-babd813b5524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Now'])[1]/following::div[1]</value>
+      <webElementGuid>17c5cc57-6ca9-4484-98f1-a82740f63578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>e3c85075-2616-4cd0-9575-8e454dab66a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Email Address Password Remember me Forgot password Sign In Continue as Guest  Or continue with  Microsoft  Google ' or . = ' Email Address Password Remember me Forgot password Sign In Continue as Guest  Or continue with  Microsoft  Google ')]</value>
+      <webElementGuid>f8986b7b-9147-499e-b4f4-26eaf4afdc90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

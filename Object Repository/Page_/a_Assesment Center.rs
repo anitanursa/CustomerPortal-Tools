@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Assesment Center</name>
+   <tag></tag>
+   <elementGuidId>0efacd23-768e-4708-b0a4-961704238cd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2caa7145-de68-4729-830e-0e392b81f92a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tools/assesment-center</value>
+      <webElementGuid>b7eb1edc-d578-499c-abd0-1676e2855810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6</value>
+      <webElementGuid>909fac9a-e5a9-4f12-874d-dd4c5fd41287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Assesment Center</value>
+      <webElementGuid>3a6ab638-8fb2-4cbd-84ac-e3905df280e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/div[1]/div[@class=&quot;lg:inset-b-0 top-16 hidden h-screen lg:fixed lg:z-40 lg:flex lg:w-56 lg:flex-col&quot;]/div[@class=&quot;flex grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 bg-white px-6 pt-6&quot;]/nav[@class=&quot;flex flex-1 flex-col&quot;]/ul[@class=&quot;flex flex-1 flex-col gap-y-7&quot;]/li[1]/ul[@class=&quot;-mx-2 space-y-1&quot;]/li[2]/a[@class=&quot;text-gray-900 hover:bg-gray-50 hover:text-sky-600 group flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6&quot;]</value>
+      <webElementGuid>34fc151e-7175-49d7-a804-c1f90aff1433</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/nav/ul/li/ul/li[2]/a</value>
+      <webElementGuid>32e58f25-690d-454c-b9cf-94d47e13c23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Assesment Center')]</value>
+      <webElementGuid>cd2cd95d-2027-46b0-914c-66edf349fc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment'])[1]/following::a[1]</value>
+      <webElementGuid>47796565-dd69-41a2-8cd6-f0b40552ae85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/following::a[2]</value>
+      <webElementGuid>2efcc7fa-3b77-4557-a8f8-6551a90bb9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROI Calculator'])[1]/preceding::a[1]</value>
+      <webElementGuid>58201336-7a69-486a-af33-16b9fa1b3324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Estimate'])[1]/preceding::a[2]</value>
+      <webElementGuid>58638a81-302b-479f-9128-aa45eb6bfa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assesment Center']/parent::*</value>
+      <webElementGuid>198454d7-e116-418b-bfc1-6dbac7e84f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tools/assesment-center')]</value>
+      <webElementGuid>8e878c16-b741-4957-b566-54b2dd061d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>cd60aa00-0853-4514-a8a4-5686dbb497d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tools/assesment-center' and (text() = ' Assesment Center' or . = ' Assesment Center')]</value>
+      <webElementGuid>fbe8577b-04b4-4a19-a035-1fe723380241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

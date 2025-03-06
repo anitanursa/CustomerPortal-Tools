@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login web Customer Portal-Tools</description>
+   <name>TCUI_Login_0001</name>
+   <tag>Anita</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f9f9347-83b9-460d-8e51-b953e37853a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90bec063-8244-404a-bf01-b9d1bc9cba08</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c998f342-76fc-4f41-80e3-1d0a04a39cca</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'customerfinal@gmail.com'</defaultValue>
+      <description></description>
+      <id>90bec063-8244-404a-bf01-b9d1bc9cba08</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'customerfinalganti'</defaultValue>
+      <description></description>
+      <id>c998f342-76fc-4f41-80e3-1d0a04a39cca</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

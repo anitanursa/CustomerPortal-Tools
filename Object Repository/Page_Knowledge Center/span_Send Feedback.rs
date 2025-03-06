@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Send Feedback</name>
+   <tag></tag>
+   <elementGuidId>c1e9f559-0294-49a1-a53d-7fa8207741b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/main/div/div/div/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23ab27b3-c146-4e5b-b663-eefc2bc4cb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>f8c1cad5-3a93-4e15-af0a-5510d531c6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>97ae6942-a0ec-479c-8ad3-5cd6fcd3fc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send Feedback</value>
+      <webElementGuid>b3a71e66-b0be-47e0-bff3-6d76bf6c9c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;mx-auto max-w-7xl&quot;]/div[@class=&quot;m-6 grid grid-cols-1 gap-6 sm:grid-cols-4&quot;]/div[@class=&quot;rounded-lg bg-white&quot;]/div[@class=&quot;feedback-background my-4 select-none p-6&quot;]/a[@class=&quot;p-button p-component w-full !border-none !bg-orange-500 !text-white hover:!bg-orange-600&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>d1eef22d-b355-401d-ba65-9590602090a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/main/div/div/div/div/div[2]/a/span</value>
+      <webElementGuid>100b384a-dc09-49fc-bc08-310acf0b92f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud &amp; Hybrid Infrastructure'])[1]/following::span[1]</value>
+      <webElementGuid>187d43f5-80c0-4400-ad06-11683e244439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a tab'])[1]/preceding::span[1]</value>
+      <webElementGuid>ad3e29df-a94d-4f74-8d72-989305f7c23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solution'])[2]/preceding::span[1]</value>
+      <webElementGuid>d1598cf1-774b-4c98-94a7-865dba5b0a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send Feedback']/parent::*</value>
+      <webElementGuid>15259223-95a1-49bf-b26b-f179f02fda4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>33499ed4-56a8-4557-9aef-5885ff6665cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Send Feedback' or . = 'Send Feedback')]</value>
+      <webElementGuid>a4111f0c-847c-42ed-ac88-c4cfb188ecdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

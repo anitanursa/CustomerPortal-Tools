@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View all projects</name>
+   <tag></tag>
+   <elementGuidId>0e33c324-a08a-45f6-b880-310c2fe3a96d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-sm.font-medium.leading-5.text-primary.underline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div[3]/div/div/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a044fdd9-a6eb-473e-9ac7-4e6e14dd1f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/project</value>
+      <webElementGuid>6ae3085f-6340-4bff-8739-37d7bc4380c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium leading-5 text-primary underline</value>
+      <webElementGuid>580a593f-6ddd-4078-b8db-5fd9b8fcc259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View all projects </value>
+      <webElementGuid>5b5c119a-41d2-49c8-9357-db22c0f36037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;m-7 max-w-full&quot;]/div[1]/div[@class=&quot;mx-4 flex flex-col&quot;]/div[@class=&quot;mb-6 grid grid-cols-1 gap-4 md:grid-cols-2&quot;]/div[@class=&quot;rounded-xl border border-neutral/outline bg-white p-5 shadow&quot;]/div[@class=&quot;mb-4&quot;]/p[@class=&quot;text-sm font-normal leading-5 text-on-surface-variant&quot;]/a[@class=&quot;text-sm font-medium leading-5 text-primary underline&quot;]</value>
+      <webElementGuid>dddb4141-b8d1-4e74-84e5-242ab1eb7b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div[3]/div/div/p/a</value>
+      <webElementGuid>92de311e-42af-4a6d-8b5e-b36c321b5119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all projects')]</value>
+      <webElementGuid>13a72dbe-4c2e-4c93-befb-0708140f29bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Status'])[1]/following::a[1]</value>
+      <webElementGuid>3e8bb57a-0057-4516-ba74-7dc813e6e035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invited in company'])[1]/following::a[1]</value>
+      <webElementGuid>5832b2f9-f770-459c-a77d-fbf95d615ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finished'])[1]/preceding::a[1]</value>
+      <webElementGuid>bd1d6791-3239-4908-ba92-7ef1fd95d387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::a[1]</value>
+      <webElementGuid>8ee8850b-e6a8-4e08-94ce-e6adb9fa5bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all projects']/parent::*</value>
+      <webElementGuid>be9dfbf3-cf55-496d-86e2-4c933b5c52c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/project')])[2]</value>
+      <webElementGuid>4fd92a10-a963-4cbc-b9a1-07f9fe9afc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>e990e15f-9dd8-4f9e-990d-942ffd8feafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/project' and (text() = ' View all projects ' or . = ' View all projects ')]</value>
+      <webElementGuid>4eca7967-330f-42d2-a7bb-5270122839ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

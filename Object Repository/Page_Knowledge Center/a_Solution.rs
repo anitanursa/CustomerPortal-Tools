@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Solution</name>
+   <tag></tag>
+   <elementGuidId>0058c411-6b63-4c1c-bd84-ef6effcc2d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cursor-pointer.border-indigo-500.text-indigo-600.whitespace-nowrap.border-b-2.px-1.py-4.text-sm.font-medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/main/div/div/div/div[2]/div/div[2]/div/nav/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3206b17-d7a6-444a-9042-529e067d2b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border-indigo-500 text-indigo-600 whitespace-nowrap border-b-2 px-1 py-4 text-sm font-medium</value>
+      <webElementGuid>0670d3e3-54dd-4a71-b131-8d5d964c752c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solution</value>
+      <webElementGuid>7c17fab8-23b5-41ef-a810-04de9f8cb114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;mx-auto max-w-7xl&quot;]/div[@class=&quot;m-6 grid grid-cols-1 gap-6 sm:grid-cols-4&quot;]/div[@class=&quot;sm:col-span-3&quot;]/div[1]/div[@class=&quot;hidden sm:block&quot;]/div[@class=&quot;border-b border-gray-200&quot;]/nav[@class=&quot;-mb-px flex space-x-8&quot;]/a[@class=&quot;cursor-pointer border-indigo-500 text-indigo-600 whitespace-nowrap border-b-2 px-1 py-4 text-sm font-medium&quot;]</value>
+      <webElementGuid>146adcda-d521-4c1b-829d-642a8dfa90df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/main/div/div/div/div[2]/div/div[2]/div/nav/a</value>
+      <webElementGuid>14d36918-8ed8-4b5b-8d3d-6b6243d36d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Solution')]</value>
+      <webElementGuid>9c73f089-f33d-4ce1-adae-77fcd683db13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a tab'])[1]/following::a[1]</value>
+      <webElementGuid>aa039c41-5ed2-4ffe-abb5-f31673ca7690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Feedback'])[1]/following::a[1]</value>
+      <webElementGuid>4bc24507-67be-47c9-8cc7-297ca7ee1e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[2]/preceding::a[1]</value>
+      <webElementGuid>0d23717b-94b0-4115-bcf2-fa0a35b56724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Setting'])[1]/preceding::a[2]</value>
+      <webElementGuid>23c09fd0-570c-4547-ba5d-225cab1eab41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a</value>
+      <webElementGuid>e8776a3a-e891-4164-9644-3afc2600f42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Solution' or . = 'Solution')]</value>
+      <webElementGuid>f8742dfc-baf9-4867-a273-2c635da65710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

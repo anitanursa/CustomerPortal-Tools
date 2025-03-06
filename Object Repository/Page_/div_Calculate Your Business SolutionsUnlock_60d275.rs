@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Calculate Your Business SolutionsUnlock_60d275</name>
+   <tag></tag>
+   <elementGuidId>f9635657-ee7a-4ee1-860f-1d3bde13a80d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f013c9e6-e338-4a94-b8e1-f75a2e50ab35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-w-[480px] cursor-pointer flex-col items-start gap-6 rounded-xl p-6 text-white</value>
+      <webElementGuid>18084a04-438b-4556-a45e-79ee74764149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculate Your Business SolutionsUnlock the potential of your business with our innovative solutions designed to streamline operations, enhance productivity, and drive growth. Whether you're a startup or an established enterprise, our tools empower you to make informed decisions and optimize your resources. Join us on the journey to success and discover how easy it is to calculate the right solutions for your unique business needs!Customizable SolutionsReal-Time AnalyticsUser-Friendly Interface24/7 Support Try Now </value>
+      <webElementGuid>49f3e758-e7dc-4ff6-a8e2-ee9ae116dbd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;m-7 max-w-full&quot;]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:grid-cols-2&quot;]/div[@class=&quot;flex min-w-[480px] cursor-pointer flex-col items-start gap-6 rounded-xl p-6 text-white&quot;]</value>
+      <webElementGuid>75d12607-d63c-44d7-ad98-08fa2fc8302a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>86d4e7de-d4b3-4311-97ec-a49207f35cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Now'])[1]/following::div[1]</value>
+      <webElementGuid>0d7e7133-676e-4933-b2c0-49e75d3076fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuous Improvement Framework'])[1]/following::div[1]</value>
+      <webElementGuid>f4a62656-d6fb-4df0-8930-10235087c5e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>206a9b56-233f-4b1c-bbb8-1a3cd2e52bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Calculate Your Business SolutionsUnlock the potential of your business with our innovative solutions designed to streamline operations, enhance productivity, and drive growth. Whether you&quot; , &quot;'&quot; , &quot;re a startup or an established enterprise, our tools empower you to make informed decisions and optimize your resources. Join us on the journey to success and discover how easy it is to calculate the right solutions for your unique business needs!Customizable SolutionsReal-Time AnalyticsUser-Friendly Interface24/7 Support Try Now &quot;) or . = concat(&quot;Calculate Your Business SolutionsUnlock the potential of your business with our innovative solutions designed to streamline operations, enhance productivity, and drive growth. Whether you&quot; , &quot;'&quot; , &quot;re a startup or an established enterprise, our tools empower you to make informed decisions and optimize your resources. Join us on the journey to success and discover how easy it is to calculate the right solutions for your unique business needs!Customizable SolutionsReal-Time AnalyticsUser-Friendly Interface24/7 Support Try Now &quot;))]</value>
+      <webElementGuid>70d6d1eb-af05-47e5-9584-31e9bde7da24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

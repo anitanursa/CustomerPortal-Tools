@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login web Customer Portal-Tools</description>
+   <name>Variable_0001</name>
+   <tag>Anita</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab998748-aa88-40d7-9e79-cbc2421b668a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10051728-d653-42b9-9559-709112653e19</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>738fba4f-c982-406e-849b-c8247f6b4dff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6731ded0-d5a6-4db6-8f10-56ad63a13cb7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'customerfinal@gmail.com'</defaultValue>
+      <description></description>
+      <id>10051728-d653-42b9-9559-709112653e19</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'customerfinalganti'</defaultValue>
+      <description></description>
+      <id>738fba4f-c982-406e-849b-c8247f6b4dff</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://apps.divistant.net/'</defaultValue>
+      <description></description>
+      <id>6731ded0-d5a6-4db6-8f10-56ad63a13cb7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
