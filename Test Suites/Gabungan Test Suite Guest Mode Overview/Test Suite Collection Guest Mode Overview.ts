@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>Test Suite Collection Guest Mode Tools</name>
+   <name>Test Suite Collection Guest Mode Overview</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test Suite Guest Mode Tools</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Gabungan Test Suite Guest Mode Overview/Test Suite Guest Mode Overview</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Test Suite Guest Mode Tools</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Gabungan Test Suite Guest Mode Overview/Test Suite Guest Mode Overview</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
