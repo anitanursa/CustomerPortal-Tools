@@ -6,18 +6,6 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>4bfde342-f330-48d2-8fd0-4bb162508707</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>51ab1908-e035-4561-8ed6-d0499d0ae85a</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>1e4d764b-a4ce-42a9-bdce-60ff9b188298</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>'customerfinal@gmail.com'</defaultValue>
       <description></description>
