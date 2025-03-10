@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Knowledge Center</name>
+   <tag></tag>
+   <elementGuidId>e1d0a634-af01-4f82-9555-a34f73328653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#headlessui-menu-item-v-0-11 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='headlessui-menu-item-v-0-11']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8bfdd9fe-8e1c-43fa-ae9f-d6aced091671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Knowledge Center</value>
+      <webElementGuid>b13c9273-2cab-4532-90c2-e19a958a1933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-item-v-0-11&quot;)/span[1]</value>
+      <webElementGuid>1810f1c9-8e4d-4886-bea7-fb8ad24bacff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='headlessui-menu-item-v-0-11']/span</value>
+      <webElementGuid>5da0aa66-c44a-4fbe-9ddd-96c34b94615e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>8f838187-7afd-4e41-88dc-4f74f33851d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Knowledge Center' or . = 'Knowledge Center')]</value>
+      <webElementGuid>ddbb3923-dd62-4abf-91bd-28e02505d84f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
