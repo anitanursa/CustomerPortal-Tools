@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Estimate Number of employees_border-1_733bf2</name>
+   <tag></tag>
+   <elementGuidId>556617d1-98cc-4269-8340-b9faea46109c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Option 1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fdeffa51-0498-400f-96c8-a35f92c831c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>29790dd3-2e20-4710-bab7-2eb7ae72486e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-1 rounded-md text-primary ring-1 ring-inset ring-gray-300 checked:border-primary focus:outline-none focus:ring-1</value>
+      <webElementGuid>7a02e4d8-1f7e-4240-b83c-fbf88d9acc83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Option 1</value>
+      <webElementGuid>c8f7890b-b9e7-4780-afae-fef0a20404e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[1]/div[1]/div[@class=&quot;flex h-full w-full flex-col bg-white lg:flex-row&quot;]/div[@class=&quot;flex-2 w-full p-8 lg:p-28&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-12&quot;]/form[1]/div[@class=&quot;flex flex-col items-stretch&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;mt-4 flex items-center gap-2&quot;]/input[@class=&quot;border-1 rounded-md text-primary ring-1 ring-inset ring-gray-300 checked:border-primary focus:outline-none focus:ring-1&quot;]</value>
+      <webElementGuid>6714c104-dc46-4474-a892-a8c76d6137d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Option 1']</value>
+      <webElementGuid>7e5709a6-fda5-41c7-99e9-32d9e99c837d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div/div/form/div/div[9]/div/input</value>
+      <webElementGuid>4bc4cf22-304e-49cc-bd98-57718b718836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/input</value>
+      <webElementGuid>22cb392f-6cf5-41c5-8902-b5a1b272ef7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>a742d9e1-dad6-409b-aa17-87bed1e9f8ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

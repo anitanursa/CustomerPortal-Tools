@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign In Now_mr- flex h-5 w-5 items-cent_b36b6e</name>
+   <tag></tag>
+   <elementGuidId>30fddd55-00d2-472a-aabb-96247110c65a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div/div[2]/div/div/div[2]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-.flex.h-5.w-5.items-center.justify-center.rounded-full.border-2.border-gray-300.bg-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>919da779-4fa3-414e-acff-32b242a138dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr- flex h-5 w-5 items-center justify-center rounded-full border-2 border-gray-300 bg-white</value>
+      <webElementGuid>0464997b-ac85-468c-8798-769ee8a27d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[1]/div[1]/div[@class=&quot;flex h-full w-full flex-col bg-white lg:flex-row&quot;]/div[@class=&quot;flex-2 w-full p-8 lg:p-28&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-12&quot;]/div[@class=&quot;flex w-full gap-4&quot;]/label[@class=&quot;flex flex-1 cursor-pointer items-center rounded-lg border border-gray-300 px-4 py-3 text-base font-medium transition-all duration-300 border-neutral/outline bg-white text-neutral/on-surface&quot;]/div[@class=&quot;mr- flex h-5 w-5 items-center justify-center rounded-full border-2 border-gray-300 bg-white&quot;]</value>
+      <webElementGuid>d02fb9d4-5871-425f-a9d9-382b76cde77b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div/div/div[2]/label/div</value>
+      <webElementGuid>d9ca23a9-2d67-4a51-92b6-b1151ae22f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In Now'])[1]/following::div[2]</value>
+      <webElementGuid>0bac1fcd-7ffe-48f2-9d29-c6c8dd1fc517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already have an account?'])[1]/following::div[2]</value>
+      <webElementGuid>d4444359-f940-434c-8c52-1c44e9b3e5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual'])[1]/preceding::div[1]</value>
+      <webElementGuid>2dc9c721-a042-4a37-9b8e-81f8126f21fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/preceding::div[3]</value>
+      <webElementGuid>f4af80e5-09f5-40e4-a96a-2edbc2e50f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>81b372e9-2410-44ac-a919-79d86575c1ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
