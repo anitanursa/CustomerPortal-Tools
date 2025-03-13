@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Shop_h-5 w-5 text-slate-500</name>
+   <tag></tag>
+   <elementGuidId>9b5ca30b-3690-4c5c-b721-bfb49a209195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/preceding::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-5.w-5.text-slate-500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2018f335-0759-4749-964a-e7efdee3d81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>67b97574-5446-42ef-afcd-5156d0a3d640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>13fad12b-566e-4f40-a19e-4199e91eb746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>6b4b572a-5672-4584-8587-493ae150f1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>17b9ad45-e67b-42b8-a8cb-7aff53b74286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>1f1c7724-3939-4921-97b5-8f1f607da263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-5 w-5 text-slate-500</value>
+      <webElementGuid>7fdfdadc-7827-4dc5-9ca9-8914bc667fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;fixed top-0 z-50 w-full bg-white shadow&quot;]/div[1]/div[@class=&quot;mx-auto px-3 sm:pr-6 lg:pr-8&quot;]/div[@class=&quot;relative flex h-16 justify-between&quot;]/div[@class=&quot;absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0&quot;]/div[@class=&quot;relative ml-3&quot;]/div[@class=&quot;relative&quot;]/a[@class=&quot;relative flex rounded-full bg-white text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2&quot;]/svg[@class=&quot;h-5 w-5 text-slate-500&quot;]</value>
+      <webElementGuid>393d4673-cdfe-4504-9302-b0baca3e33e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a4cda299-c0d6-4f50-a581-41e6299c66b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Afternoon Michael Oliver!'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>388804b8-2c59-43c5-8f8e-e70e4dac4d94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

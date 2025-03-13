@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hybrid_h-8 w-8 cursor-pointer rounded-f_e6ed01</name>
+   <tag></tag>
+   <elementGuidId>83d76fec-8ff8-43fd-84eb-3b87f541daa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-form']/div[4]/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>534be0a1-394b-4212-9d75-4131296bd8f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-8 w-8 cursor-pointer rounded-full border-4 border-gray-200</value>
+      <webElementGuid>02b628a4-7239-4b6f-a1a0-11e3cb764e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>#ff5733</value>
+      <webElementGuid>3fa88fe5-2b69-416a-8e11-d02131a9113e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-form&quot;)/div[@class=&quot;mb-4&quot;]/div[@class=&quot;mt-1 flex flex-wrap gap-2&quot;]/div[@class=&quot;h-8 w-8 cursor-pointer rounded-full border-4 border-gray-200&quot;]</value>
+      <webElementGuid>064d7a9f-4414-4342-b48d-72ea2b0bd36d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-form']/div[4]/div/div[4]</value>
+      <webElementGuid>35801103-9f1f-4819-baef-b0949e3f769a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[4]</value>
+      <webElementGuid>fde586cd-b7ba-4a11-be3e-0d989f4d02db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '#ff5733']</value>
+      <webElementGuid>b8e68cc9-807b-4210-b780-be84b166c4b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

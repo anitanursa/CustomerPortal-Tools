@@ -27,5 +27,25 @@
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Gabungan Test Suite Store/Test Suite Store</testSuiteEntity>
       </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/Gabungan Test Suite Store/Test Suite Store</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>Staging</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Firefox</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/Gabungan Test Suite Store/Test Suite Store</testSuiteEntity>
+      </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

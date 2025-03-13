@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In</name>
+   <tag></tag>
+   <elementGuidId>b20f18ec-eda9-4ce7-ae88-9b722ed2c8f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8115615d-0b5e-40a4-8637-c6e0688d17c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03ea1a52-e719-4d7d-b235-c117f7f4fe2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex justify-center rounded-md bg-sky-600 px-4 py-2 text-white hover:bg-sky-500</value>
+      <webElementGuid>60418baa-1d55-430b-8c59-00825d232c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>cc26ed4d-9cd7-45b7-8166-913f8785d226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[1]/div[1]/div[@class=&quot;flex min-h-screen w-full flex-col bg-white lg:flex-row&quot;]/div[@class=&quot;w-full flex-none p-8 lg:w-[640px] lg:p-28&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-12&quot;]/div[@class=&quot;flex flex-col items-stretch justify-start gap-8&quot;]/div[@class=&quot;flex flex-col items-stretch gap-6&quot;]/button[@class=&quot;inline-flex justify-center rounded-md bg-sky-600 px-4 py-2 text-white hover:bg-sky-500&quot;]</value>
+      <webElementGuid>02342bca-2945-4254-9b68-8ce4c675eedc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>d1af446a-fe7f-496c-a15b-f3fdb5caf4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div/div[2]/div/div/div[2]/div[4]/button</value>
+      <webElementGuid>a55c2b7c-5021-42ee-a3c6-cf96a38f6e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
+      <webElementGuid>68b19b2f-326d-4abb-9735-b82b84d14737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>7e01dc2f-a031-4a13-b9df-c138ad8a94b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue as Guest'])[1]/preceding::button[1]</value>
+      <webElementGuid>a2fe14dc-5043-45ef-99c7-2b2434d11e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>796917c3-fc3b-4890-81f1-4f9c48964ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>b8657379-3b21-4967-82b0-7565c1970667</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

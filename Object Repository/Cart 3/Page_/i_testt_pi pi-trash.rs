@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_testt_pi pi-trash</name>
+   <tag></tag>
+   <elementGuidId>63456e12-843b-4228-beff-1f8846cc5355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[3]/div[3]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>afc9ef3c-7fd8-4ddf-9f6b-c912ab8c071d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-trash</value>
+      <webElementGuid>83097394-4655-4dae-b1f9-85afe6229f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;relative m-6 mx-auto max-w-7xl&quot;]/div[1]/div[@class=&quot;mx-6 grid grid-cols-3 gap-4&quot;]/div[@class=&quot;col-span-2&quot;]/div[@class=&quot;mb-4 flex items-start gap-4 rounded-lg border p-4&quot;]/div[@class=&quot;flex space-x-2&quot;]/button[@class=&quot;text-red-500 hover:text-red-700&quot;]/i[@class=&quot;pi pi-trash&quot;]</value>
+      <webElementGuid>958e9e10-b328-4675-9f22-dccf8497a634</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[3]/div[3]/button[2]/i</value>
+      <webElementGuid>9f265cfd-b2f9-4059-9642-0d013fafc4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/button[2]/i</value>
+      <webElementGuid>9ae94b1d-25af-4b36-829f-d746b31a9482</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

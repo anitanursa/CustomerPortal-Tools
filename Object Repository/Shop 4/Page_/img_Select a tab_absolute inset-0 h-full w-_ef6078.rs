@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Select a tab_absolute inset-0 h-full w-_ef6078</name>
+   <tag></tag>
+   <elementGuidId>a31332eb-e588-4bce-89d8-18e43ea8ff29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div[3]/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.absolute.inset-0.h-full.w-full.object-cover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>803294c5-a8f8-4028-b29e-061a394bb3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml,%3csvg%20width='320'%20height='320'%20viewBox='0%200%20320%20320'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20opacity='0.32'%3e%3cpath%20d='M260%2040H60C49.3949%2040.0116%2039.2275%2044.2296%2031.7285%2051.7285C24.2296%2059.2275%2020.0116%2069.3949%2020%2080V240C20.0116%20250.605%2024.2296%20260.773%2031.7285%20268.271C39.2275%20275.77%2049.3949%20279.988%2060%20280H260C270.605%20279.988%20280.773%20275.77%20288.271%20268.271C295.77%20260.773%20299.988%20250.605%20300%20240V80C299.988%2069.3949%20295.77%2059.2275%20288.271%2051.7285C280.773%2044.2296%20270.605%2040.0116%20260%2040ZM210%2080C215.933%2080%20221.734%2081.7595%20226.667%2085.0559C231.601%2088.3524%20235.446%2093.0377%20237.716%2098.5195C239.987%20104.001%20240.581%20110.033%20239.424%20115.853C238.266%20121.672%20235.409%20127.018%20231.213%20131.213C227.018%20135.409%20221.672%20138.266%20215.853%20139.424C210.033%20140.581%20204.001%20139.987%20198.52%20137.716C193.038%20135.446%20188.352%20131.601%20185.056%20126.667C181.759%20121.734%20180%20115.933%20180%20110C180.008%20102.046%20183.172%2094.4202%20188.796%2088.7959C194.42%2083.1716%20202.046%2080.0083%20210%2080ZM60%20260C54.6957%20260%2049.6086%20257.893%2045.8579%20254.142C42.1071%20250.391%2040%20245.304%2040%20240V197.731L99.275%20145.044C104.994%20139.972%20112.432%20137.271%20120.073%20137.491C127.714%20137.712%20134.983%20140.838%20140.4%20146.231L180.994%20186.738L107.731%20260H60ZM280%20240C280%20245.304%20277.893%20250.391%20274.142%20254.142C270.391%20257.893%20265.304%20260%20260%20260H136.019L211.906%20184.112C217.279%20179.543%20224.097%20177.026%20231.15%20177.008C238.203%20176.989%20245.035%20179.471%20250.431%20184.013L280%20208.65V240Z'%20fill='%236B7280'/%3e%3c/g%3e%3c/svg%3e</value>
+      <webElementGuid>a31fe8b5-ba9e-460f-a41b-0ed0234eca07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Product Image</value>
+      <webElementGuid>eb8fc308-cc1a-47a7-8703-df16ba4528ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 h-full w-full object-cover</value>
+      <webElementGuid>7866a28b-1f7a-43ea-a92e-b81f2469323e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;relative mx-auto max-w-7xl&quot;]/div[@class=&quot;m-6 flex flex-col gap-6 sm:flex-row&quot;]/div[@class=&quot;flex-grow&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-4&quot;]/a[@class=&quot;flex cursor-pointer flex-col&quot;]/div[@class=&quot;relative flex aspect-square w-full overflow-hidden rounded-lg border bg-gray-50&quot;]/img[@class=&quot;absolute inset-0 h-full w-full object-cover&quot;]</value>
+      <webElementGuid>9437da13-277f-4e4c-9b89-3d8ee0ab9bc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div[3]/a/div/img</value>
+      <webElementGuid>9fa91af0-5ac7-4870-b042-54d0681efe6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Product Image']</value>
+      <webElementGuid>f87ad9f1-5a57-4ea6-907d-4db33107b9bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>82cbab72-2655-4b1f-8dea-0797ee897565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = concat(&quot;data:image/svg+xml,%3csvg%20width=&quot; , &quot;'&quot; , &quot;320&quot; , &quot;'&quot; , &quot;%20height=&quot; , &quot;'&quot; , &quot;320&quot; , &quot;'&quot; , &quot;%20viewBox=&quot; , &quot;'&quot; , &quot;0%200%20320%20320&quot; , &quot;'&quot; , &quot;%20fill=&quot; , &quot;'&quot; , &quot;none&quot; , &quot;'&quot; , &quot;%20xmlns=&quot; , &quot;'&quot; , &quot;http://www.w3.org/2000/svg&quot; , &quot;'&quot; , &quot;%3e%3cg%20opacity=&quot; , &quot;'&quot; , &quot;0.32&quot; , &quot;'&quot; , &quot;%3e%3cpath%20d=&quot; , &quot;'&quot; , &quot;M260%2040H60C49.3949%2040.0116%2039.2275%2044.2296%2031.7285%2051.7285C24.2296%2059.2275%2020.0116%2069.3949%2020%2080V240C20.0116%20250.605%2024.2296%20260.773%2031.7285%20268.271C39.2275%20275.77%2049.3949%20279.988%2060%20280H260C270.605%20279.988%20280.773%20275.77%20288.271%20268.271C295.77%20260.773%20299.988%20250.605%20300%20240V80C299.988%2069.3949%20295.77%2059.2275%20288.271%2051.7285C280.773%2044.2296%20270.605%2040.0116%20260%2040ZM210%2080C215.933%2080%20221.734%2081.7595%20226.667%2085.0559C231.601%2088.3524%20235.446%2093.0377%20237.716%2098.5195C239.987%20104.001%20240.581%20110.033%20239.424%20115.853C238.266%20121.672%20235.409%20127.018%20231.213%20131.213C227.018%20135.409%20221.672%20138.266%20215.853%20139.424C210.033%20140.581%20204.001%20139.987%20198.52%20137.716C193.038%20135.446%20188.352%20131.601%20185.056%20126.667C181.759%20121.734%20180%20115.933%20180%20110C180.008%20102.046%20183.172%2094.4202%20188.796%2088.7959C194.42%2083.1716%20202.046%2080.0083%20210%2080ZM60%20260C54.6957%20260%2049.6086%20257.893%2045.8579%20254.142C42.1071%20250.391%2040%20245.304%2040%20240V197.731L99.275%20145.044C104.994%20139.972%20112.432%20137.271%20120.073%20137.491C127.714%20137.712%20134.983%20140.838%20140.4%20146.231L180.994%20186.738L107.731%20260H60ZM280%20240C280%20245.304%20277.893%20250.391%20274.142%20254.142C270.391%20257.893%20265.304%20260%20260%20260H136.019L211.906%20184.112C217.279%20179.543%20224.097%20177.026%20231.15%20177.008C238.203%20176.989%20245.035%20179.471%20250.431%20184.013L280%20208.65V240Z&quot; , &quot;'&quot; , &quot;%20fill=&quot; , &quot;'&quot; , &quot;%236B7280&quot; , &quot;'&quot; , &quot;/%3e%3c/g%3e%3c/svg%3e&quot;) and @alt = 'Product Image']</value>
+      <webElementGuid>25b65d47-e5e3-4e2b-9d57-182aedde3da0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

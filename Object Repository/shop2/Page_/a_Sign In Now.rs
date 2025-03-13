@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign In Now</name>
+   <tag></tag>
+   <elementGuidId>0c3ac214-0d38-4a56-9688-c226affda97b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9cea8d3-db05-4ca1-8a60-f0a1f39d0ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/authentication/sign-in</value>
+      <webElementGuid>bd010446-8f65-4e4f-a418-f2cea7f8da2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-x-1.5 rounded-md bg-sky-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600</value>
+      <webElementGuid>1a4bbb53-c53c-4c91-b8ea-9a541579ac4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign In Now </value>
+      <webElementGuid>c4b733b4-a583-43f6-9a97-1d6e742de836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1 dark:bg-gray-800&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;m-7 max-w-full&quot;]/div[@class=&quot;flex flex-col gap-9&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/a[@class=&quot;inline-flex items-center gap-x-1.5 rounded-md bg-sky-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600&quot;]</value>
+      <webElementGuid>a287680d-49c3-4951-aa73-f974c6244f30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/a</value>
+      <webElementGuid>9a7c17f8-1e6c-4170-954a-05d9c3519571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign In Now')]</value>
+      <webElementGuid>cc980050-20cc-4f71-9427-c57e63db818c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, Divers!'])[1]/following::a[1]</value>
+      <webElementGuid>d81c1860-60d9-401c-985e-43bf992ed004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/following::a[1]</value>
+      <webElementGuid>4f086244-79c1-49b9-8d36-42027b74c556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessment Center'])[1]/preceding::a[1]</value>
+      <webElementGuid>005eb4f5-054a-4853-b120-26e63d2d6401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprehensive Evaluation'])[1]/preceding::a[1]</value>
+      <webElementGuid>f76c8add-1cc4-4ec1-9be5-047f0bd57ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In Now']/parent::*</value>
+      <webElementGuid>5ef45f5a-a26f-4fa8-b89a-5fffb8cd1fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/authentication/sign-in')]</value>
+      <webElementGuid>63b41c1d-0335-476a-b7d0-bf177b850cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/a</value>
+      <webElementGuid>8fb07655-7e04-47d8-b890-cd33f5b72742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/authentication/sign-in' and (text() = ' Sign In Now ' or . = ' Sign In Now ')]</value>
+      <webElementGuid>a17e9c37-4366-4d54-8fa9-dd30b344e579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Team Augmentation</name>
+   <tag></tag>
+   <elementGuidId>506ae9e5-0342-4fd4-9452-1b9072274945</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div/div[2]/div/nav/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>692934fd-14c6-4589-af38-48d3bd3d744f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>cb947ae4-e1de-4e8e-b0fc-0f961783a445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 whitespace-nowrap border-b-2 px-1 py-4 text-sm font-medium</value>
+      <webElementGuid>7f90ea1c-9e94-4bf5-a0f5-b3249c83c22e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team Augmentation</value>
+      <webElementGuid>791ea965-e2a0-4045-9978-06001e1300dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;relative mx-auto max-w-7xl&quot;]/div[@class=&quot;m-6 flex flex-col gap-6 sm:flex-row&quot;]/div[@class=&quot;flex-grow&quot;]/div[@class=&quot;container mx-auto&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;hidden sm:block&quot;]/div[@class=&quot;border-b border-gray-200&quot;]/nav[@class=&quot;flex space-x-8&quot;]/a[@class=&quot;border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 whitespace-nowrap border-b-2 px-1 py-4 text-sm font-medium&quot;]</value>
+      <webElementGuid>6d359f96-6dcd-44ff-a54a-fe1fdc706337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div/div[2]/div/nav/a[2]</value>
+      <webElementGuid>4fea566b-d686-4aa7-b689-8cbfb8a4f4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Team Augmentation')]</value>
+      <webElementGuid>dde3aa9a-894c-40be-8a75-63d5068ea369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a tab'])[1]/following::a[2]</value>
+      <webElementGuid>7ea07dfa-20de-4ff1-aba6-cc02cca8cd33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Development (0)'])[1]/following::a[2]</value>
+      <webElementGuid>bee9fd19-c826-45c5-b5d0-551c3f53c4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cloud Provisioning'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8433689-10d7-4c7c-905b-2a21996c3a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DevOps'])[1]/preceding::a[2]</value>
+      <webElementGuid>a2fba727-8c1f-46e0-afde-49220ba4147e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>980daeb5-0937-4af4-bb82-e822f6f5128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/a[2]</value>
+      <webElementGuid>85738023-91a3-40f2-8e10-edc3af4704e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Team Augmentation' or . = 'Team Augmentation')]</value>
+      <webElementGuid>7b3a90bc-4dfa-4cca-985e-07180cf31126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite Store</name>
+   <name>Test Suite Cart</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>513e84e3-2b7a-4516-8880-15901f0ad699</testSuiteGuid>
+   <testSuiteGuid>48bc8393-3334-467d-a673-f361be8808e0</testSuiteGuid>
    <testCaseLink>
-      <guid>0daa8c86-141a-4dc0-8701-d2ff55c0da40</guid>
+      <guid>7dffae67-18a7-4981-b27d-3928b5470ae0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Store/TCUI_Store_0001</testCaseId>
+      <testCaseId>Test Cases/Cart/TCUI_Cart_0001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3e0262c2-6816-4a28-9fd2-111e56476631</guid>
+      <guid>dd04dbe4-8c81-4bcd-89b8-fd616da5f7aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Store/TCUI_Store_0001</testCaseId>
+      <testCaseId>Test Cases/Cart/TCUI_Cart_Delete_0002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4ca5fb4a-b552-4859-a76c-e2747ce9e821</guid>
+      <guid>05dc7340-c985-463e-a304-fe9059f7fc0f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Store/TCUI_Store_0002</testCaseId>
+      <testCaseId>Test Cases/Cart/TCUI_Cart_Edit_0003</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eaa4bcdc-0204-4630-9e3b-a346993da1a2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cart/TCUI_Cart_Submit_0004</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

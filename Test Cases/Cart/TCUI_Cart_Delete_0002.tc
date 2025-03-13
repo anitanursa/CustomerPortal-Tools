@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCUI_Cart_Delete_0002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8cf1422f-9272-47bb-8f14-139bb4507c6e</testCaseGuid>
+</TestCaseEntity>

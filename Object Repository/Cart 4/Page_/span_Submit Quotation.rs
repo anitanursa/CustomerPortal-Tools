@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit Quotation</name>
+   <tag></tag>
+   <elementGuidId>171bfdcf-6ef7-419e-9e94-fc28961040d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c80270bb-a3f2-4a7c-af13-bd642f7a5198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>63da23b7-d591-4fee-90bb-5ca8d199b853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9a13855b-7e6a-4e58-b117-9dee1a58db71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Quotation</value>
+      <webElementGuid>34b234b7-f3cc-4ed6-bb76-e59739933d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;relative m-6 mx-auto max-w-7xl&quot;]/div[1]/div[@class=&quot;mx-6 grid grid-cols-3 gap-4&quot;]/div[@class=&quot;rounded-lg border bg-white&quot;]/div[@class=&quot;p-4&quot;]/button[@class=&quot;p-button p-component mt-4 w-full&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>fb116995-a1ca-4702-b9a5-17dc68d741bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div/button/span</value>
+      <webElementGuid>8edee6c8-6256-491f-9446-942b5ea43b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral'])[1]/following::span[2]</value>
+      <webElementGuid>783b8e18-aa44-4a3f-95ce-5b67621b803a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Note'])[1]/following::span[2]</value>
+      <webElementGuid>bff476d9-9aa2-4a90-8891-237480899a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/preceding::span[1]</value>
+      <webElementGuid>f6dc7cd2-0e6d-44c3-87b4-70d6d7d87195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::span[1]</value>
+      <webElementGuid>0d98ed60-9ca0-4b9c-9236-9a8b30272a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Quotation']/parent::*</value>
+      <webElementGuid>65da0dde-9eb5-4c7b-98a3-7c126ddcd318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>d76f8eee-8c05-41bf-bd9c-97cd790ea646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Submit Quotation' or . = 'Submit Quotation')]</value>
+      <webElementGuid>456035b8-41f1-496c-a157-e4bb7374abce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

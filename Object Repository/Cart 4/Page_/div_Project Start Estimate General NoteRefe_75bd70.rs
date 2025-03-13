@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Project Start Estimate General NoteRefe_75bd70</name>
+   <tag></tag>
+   <elementGuidId>107776c8-d18e-407c-b4cc-6451117768ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rounded-lg.border.bg-white > div.p-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a13baaaf-b562-4125-aa8e-1ac00883fdfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4</value>
+      <webElementGuid>4a0c0855-1e45-4757-ae39-bcb8dec8fe85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project Start Estimate *General NoteReferralSubmit Quotation</value>
+      <webElementGuid>7e583d81-3425-4775-b4cd-02fa013e755f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;flex flex-1 pt-16&quot;]/main[@class=&quot;h-full w-full flex-1&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;relative m-6 mx-auto max-w-7xl&quot;]/div[1]/div[@class=&quot;mx-6 grid grid-cols-3 gap-4&quot;]/div[@class=&quot;rounded-lg border bg-white&quot;]/div[@class=&quot;p-4&quot;]</value>
+      <webElementGuid>bbc6ed0b-2ed3-4fc5-911c-b8b5b7f918fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div[2]/div</value>
+      <webElementGuid>a74027f8-90c2-4501-855e-62e81f7d5a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing 20 jt'])[1]/following::div[3]</value>
+      <webElementGuid>1579a70c-11d2-40d5-9a31-8ce3c30b7cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes:'])[2]/following::div[4]</value>
+      <webElementGuid>3004157b-0a50-48f1-8df7-4ef3747bc5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div[2]/div</value>
+      <webElementGuid>5fe5f288-4947-491d-a9f6-8312d93e140c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Project Start Estimate *General NoteReferralSubmit Quotation' or . = 'Project Start Estimate *General NoteReferralSubmit Quotation')]</value>
+      <webElementGuid>c67946b7-4bc8-437b-8ef1-7ee244bd4f4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

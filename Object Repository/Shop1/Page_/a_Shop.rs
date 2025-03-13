@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop</name>
+   <tag></tag>
+   <elementGuidId>e9694bd3-c1a8-40da-bd5a-6ad0ff2b41e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/nav/div/div[2]/div/div[2]/div[3]/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c1f3ca9-de40-44cf-b777-23a93006c005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shop</value>
+      <webElementGuid>636e741f-0240-418b-a596-03d289a99c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex flex-nowrap items-center gap-x-2 px-2 pt-1 text-sm font-semibold border-b-2 border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700</value>
+      <webElementGuid>89036355-a257-49b5-a43b-48f6310cdb96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Shop</value>
+      <webElementGuid>c6e5f1bb-2e80-4a5d-8bfb-b0d3c762fc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;fixed top-0 z-50 w-full bg-white shadow&quot;]/div[1]/div[@class=&quot;mx-auto px-3 sm:pr-6 lg:pr-8&quot;]/div[@class=&quot;relative flex h-16 justify-between&quot;]/div[@class=&quot;flex flex-1 sm:items-stretch sm:justify-start&quot;]/div[@class=&quot;hidden sm:ml-6 sm:flex sm:gap-x-5&quot;]/a[@class=&quot;inline-flex flex-nowrap items-center gap-x-2 px-2 pt-1 text-sm font-semibold border-b-2 border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700&quot;]</value>
+      <webElementGuid>801037cb-b283-4941-9dc4-a31ccf432226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/nav/div/div[2]/div/div[2]/div[3]/a[5]</value>
+      <webElementGuid>183e263a-7eb4-42cd-abc0-3c044b19c06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>b0874bba-1e9c-48cf-8179-00f9debdbf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Afternoon Michael Oliver!'])[1]/preceding::a[2]</value>
+      <webElementGuid>7ce7c695-6b19-458c-a634-150f5aa0c287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop']/parent::*</value>
+      <webElementGuid>b6f5d484-b198-4243-a961-31e8fa5fb085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shop')]</value>
+      <webElementGuid>9fad13b3-1a8f-445c-98c1-7df89ab5ccbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>e9e395d5-c186-4a62-9c6f-b48a6840cf84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shop' and (text() = ' Shop' or . = ' Shop')]</value>
+      <webElementGuid>288cc7a8-282b-4a1b-93b8-f98045d53838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
